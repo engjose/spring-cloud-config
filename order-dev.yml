@@ -13,7 +13,7 @@ swagger:
 
 spring:
   application:
-    name: eureka-order
+    name: order
 
   # 数据源
   datasource:
