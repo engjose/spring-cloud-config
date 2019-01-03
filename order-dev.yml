@@ -3,7 +3,7 @@ server:
 
 #swagger配置
 swagger:
-  enable: true
+  enable: false
 
 spring:
   application:
